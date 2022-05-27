@@ -1,6 +1,6 @@
 import { Given, And, Then } from "cypress-cucumber-preprocessor/steps";
-const locators = require("../Locators/locatorPage");
-const data = require("../TestData/data")
+const locators = require("../../Locators/locatorPage");
+const data = require("../../TestData/data")
 
 
 

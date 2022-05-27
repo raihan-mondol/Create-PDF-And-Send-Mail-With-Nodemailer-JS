@@ -1,5 +1,5 @@
 {
-    "testFiles": "**/Allure.feature",
+    "testFiles": "**/Test/*.feature",
     "defaultTimeout": 5000,
     "screenshotOnRunFailure": false,
     "reporter":"mochawesome",
